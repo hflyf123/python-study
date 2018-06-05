@@ -2,9 +2,10 @@
 # map
 # reduce
 # filter
-# lambda
+# lambda  算子
 # 函数式编程
 
 # def
 # if else
 # for
+# lisp 函数式编程的鼻祖
